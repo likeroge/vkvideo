@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/vkvideo/static/js/main.ef7d6bb6.chunk.js",
+    "main.js.map": "/vkvideo/static/js/main.ef7d6bb6.chunk.js.map",
+    "runtime-main.js": "/vkvideo/static/js/runtime-main.5f8fe52b.js",
+    "runtime-main.js.map": "/vkvideo/static/js/runtime-main.5f8fe52b.js.map",
+    "static/css/2.a2ab3232.chunk.css": "/vkvideo/static/css/2.a2ab3232.chunk.css",
+    "static/js/2.335b5c19.chunk.js": "/vkvideo/static/js/2.335b5c19.chunk.js",
+    "static/js/2.335b5c19.chunk.js.map": "/vkvideo/static/js/2.335b5c19.chunk.js.map",
+    "index.html": "/vkvideo/index.html",
+    "static/css/2.a2ab3232.chunk.css.map": "/vkvideo/static/css/2.a2ab3232.chunk.css.map",
+    "static/js/2.335b5c19.chunk.js.LICENSE.txt": "/vkvideo/static/js/2.335b5c19.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f8fe52b.js",
+    "static/css/2.a2ab3232.chunk.css",
+    "static/js/2.335b5c19.chunk.js",
+    "static/js/main.ef7d6bb6.chunk.js"
+  ]
+}
